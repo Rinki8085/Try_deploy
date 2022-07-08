@@ -1,0 +1,32 @@
+.Timer{
+    border:1px solid black;
+    width:80%;
+    margin:auto;
+    padding:0px;
+}
+
+h3{
+    color:white;
+    background-color: #363638;
+    height:35px;
+    width:80px;
+    text-align:center;
+    padding:5px;
+    box-sizing: border-box;
+    margin-top:0px;
+}
+
+label{
+    padding-bottom:10px;
+}
+
+input[type="text"]{
+    width:26px;
+    height:30px;
+    margin-bottom:10px;
+    border:none;
+    border-bottom:1px solid black;
+}
+input[type="text"]:hover{
+    border:none;
+}
